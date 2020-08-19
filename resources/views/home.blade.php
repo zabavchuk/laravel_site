@@ -13,6 +13,21 @@
                 <div class="pr-5"><strong>998m</strong> followers</div>
                 <div class="pr-5"><strong>212</strong> following</div>
             </div>
+            <div class="pt-4 font-weight-bold">Daniel</div>
+            <div class="">the worms will come for you</div>
+            <div><a href="https://www.youtube.com/watch?v=GYgAvngxzMw">youtu.be/GYgAvngxzMw</a></div>
+        </div>
+    </div>
+
+    <div class="row pt-5">
+        <div class="col-4">
+            <img src="https://instagram.fiev1-1.fna.fbcdn.net/v/t51.2885-15/e15/c180.0.720.720a/s640x640/34828660_399177397266174_8815892701183475712_n.jpg?_nc_ht=instagram.fiev1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Sk6DS575OFkAX-V-ivW&oh=2d8a775adcd028afd596da4b99cd5abd&oe=5F67AC8C" alt="" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://instagram.fiev1-1.fna.fbcdn.net/v/t51.2885-15/e15/c180.0.719.719a/s640x640/26343319_1784758541826364_2037804476911321088_n.jpg?_nc_ht=instagram.fiev1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=dEI5ZJh0XzwAX-WJCgh&oh=7e48c8a00a4ed200e544bbe82d81d51d&oe=5F65EA26" alt="" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://instagram.fiev1-1.fna.fbcdn.net/v/t51.2885-15/e15/c180.0.720.720a/s640x640/46305328_1391279744336305_2454554469085761861_n.jpg?_nc_ht=instagram.fiev1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Xt0peGRkvg0AX_fKrQq&oh=90c5d02c41f915266b354759cb646477&oe=5F665396" alt="" class="w-100">
         </div>
     </div>
 </div>
